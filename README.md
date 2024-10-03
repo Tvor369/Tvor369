@@ -1,5 +1,18 @@
 # Trevor Stewart
 
+>some quote...
+
+## About Me
+Hello I am a CS student at Eastern Washington University. 
+
+## Skills
+- 
+
+## Code Languages
+- Java (primarly)
+- C#
+- Python
+
 <!--
 **Tvor369/Tvor369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
