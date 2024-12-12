@@ -3,10 +3,15 @@
 > Ctrl+c, Ctrl+v, Repeat. (Not really)
 
 ## About Me
-Hello I am a CS student at Eastern Washington University. I love the knowledge/tips sharing nature of CS, and hope one day I two can join in with that. Go EAGS!!!
+Hello I am a CS student at Eastern Washington University. I love the knowledge/tips sharing nature of CS, and hope one day I too can join in with that. Go EAGS!!!
+
+<img src="https://cdn.ewu.edu/wp-content/uploads/2019/07/V_RGB_EWUlogo.jpg" style="width: 50%; height: 50%;">
 
 ## Skills
 - Working with SQL Datatbases.
+- Working with external APIs.
+  - Accessing JSON data
+  - Setting up .env for keys
 - Breaking down problems into manageable pieces.
 - Diamond Tank on Overwatch. :muscle:
 - Bad at thinking of skills.
@@ -16,6 +21,12 @@ Hello I am a CS student at Eastern Washington University. I love the knowledge/t
 - C# with .net
 - Python
 - JS, CSS, Html
+  - Tailwind and DaisyUI plugins
+  - Experience with the Astro framework
+ 
+## Future Planned Projects:
+- A web-based studying game that blends elements of Mario Party and Kahoot.
+- A photo gallery/blog for myself to journalize trips and good memories.
 
 <!--
 **Tvor369/Tvor369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
